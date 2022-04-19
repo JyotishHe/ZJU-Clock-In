@@ -1,4 +1,4 @@
-name: ClockIn
+name: 自动打卡
 
 on:
   push:
